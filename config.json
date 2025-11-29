@@ -1,0 +1,5 @@
+{
+  "clientId": "YOUR_CLIENT_ID",
+  "guildId": "GUILD_ID_JIKA_MAU_GUILD_COMMAND",
+  "token": "TOKEN_DI_ENV_TAPI BOLEH DITAROH SINI KALAU MAU"
+}
